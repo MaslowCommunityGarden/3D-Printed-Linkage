@@ -1,7 +1,5 @@
-Edit this file to add assembly instructions
+These were all printed solid.
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+I printed Base, Chainholder, and Arm 2 in ABS and the Hinge components and Arm 1 in PC.
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+The Chain Holder has location holes for pins to secure the chain. They'll need to be drilled to the proper diameter for your pin... I used a nails but, I'm sure Cotter Pins, Dowel Pins, Spring Pins would be better.
